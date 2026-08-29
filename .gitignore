@@ -1,0 +1,13 @@
+# Local credentials
+.env
+.streamlit/secrets.toml
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Generated local data
+regional_sales.db
+
+# Operating-system files
+.DS_Store
