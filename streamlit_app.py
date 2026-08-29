@@ -27,6 +27,7 @@ st.markdown("""
 <style>
     /* Streamlit toolbar/menu customization for Streamlit 1.59.2. */
     [data-testid="stAppDeployButton"],
+    [data-testid="stToolbarActions"],
     [data-testid="stMainMenuItem-theme-Light"],
     [data-testid="stMainMenuItem-print"],
     [data-testid="stMainMenuItem-recordScreencast"],
